@@ -1,0 +1,27 @@
+{
+  "name": "comp3123_assignment1",
+  "version": "1.0.0",
+  "description": "backend application for user and employee managment using Node.js,Express and MonogoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roda152/comp3123_assignemt.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "backend",
+    "API"
+  ],
+  "author": "Roda Issa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roda152/comp3123_assignemt/issues"
+  },
+  "homepage": "https://github.com/Roda152/comp3123_assignemt#readme"
+}
